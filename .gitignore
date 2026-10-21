@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 build/
 *.log
+# The released weights, fetched from Hugging Face (FORK_CHANGES.md).
+weights/

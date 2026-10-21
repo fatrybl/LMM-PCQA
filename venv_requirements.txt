@@ -1,0 +1,9 @@
+# The venv LMM-PCQA runs in, on top of VAPE's environment (setup_venv.sh): these packages, the
+# versions the fork is verified on, then the Q-Align fork. Nothing of VAPE's environment is
+# replaced; torch, Open3D, OpenCV, NumPy and Pillow come from it.
+transformers==5.20.2
+tokenizers==0.23.3
+sentencepiece==0.2.2
+typer==0.27.3
+annotated-doc==0.0.5
+shellingham==1.5.4
